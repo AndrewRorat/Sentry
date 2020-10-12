@@ -1,5 +1,6 @@
 package mainPage.homePage;
 
+import mainPage.homePage.tripsManagement.TripsManagementPage;
 import utills.enums.EMainScrollBar;
 
 public class BrokerHomePage extends HomePage{
